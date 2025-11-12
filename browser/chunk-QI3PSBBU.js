@@ -1,0 +1,1 @@
+import{Fa as i,K as t,wb as e}from"./chunk-VY566EE5.js";import"./chunk-BE352OPC.js";var r=class o{static \u0275fac=function(m){return new(m||o)};static \u0275mod=i({type:o});static \u0275inj=t({imports:[e]})};export{r as CheckoutModule};
